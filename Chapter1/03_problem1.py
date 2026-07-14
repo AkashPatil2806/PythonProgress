@@ -1,0 +1,16 @@
+print('''Johny, Johny
+(Yes, papa)
+Eating sugar?
+(No, papa)
+Telling lies?
+(No, papa)
+Open your mouth
+(Ah, ah, ah)
+Johny, Johny
+(Yes, papa)
+Eating sugar?
+(No, papa)
+Telling lies?
+(No, papa)
+Open your mouth
+(Ah, ah, ah''')
